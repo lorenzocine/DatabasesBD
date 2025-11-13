@@ -1,0 +1,331 @@
+Race_ID;Track;Class;Times
+8500;Albi;MotoGP ;3
+8505;Albi;250cc;3
+8506;Albi;350cc;3
+1100;Anderstorp;MotoGP ;63
+1104;Anderstorp;125cc;63
+1105;Anderstorp;250cc;63
+1106;Anderstorp;350cc;63
+1107;Anderstorp;50cc;63
+1200;Autodromo Internacional do Algarve;MotoGP ;12
+1201;Autodromo Internacional do Algarve;Moto2 ;12
+1202;Autodromo Internacional do Algarve;Moto3 ;12
+1300;Autodromo Internazionale del Mugello;MotoGP ;116
+1301;Autodromo Internazionale del Mugello;Moto2 ;116
+1302;Autodromo Internazionale del Mugello;Moto3 ;116
+1304;Autodromo Internazionale del Mugello;125cc;116
+1305;Autodromo Internazionale del Mugello;250cc;116
+1306;Autodromo Internazionale del Mugello;350cc;116
+1307;Autodromo Internazionale del Mugello;50cc;116
+1308;Autodromo Internazionale del Mugello;80cc;116
+1400;Automotodrom Brno;MotoGP ;168
+1401;Automotodrom Brno;Moto2 ;168
+1402;Automotodrom Brno;Moto3 ;168
+1404;Automotodrom Brno;125cc;168
+1405;Automotodrom Brno;250cc;168
+1406;Automotodrom Brno;350cc;168
+1407;Automotodrom Brno;50cc;168
+1408;Automotodrom Brno;80cc;168
+1500;Belfast;MotoGP ;87
+1504;Belfast;125cc;87
+1505;Belfast;250cc;87
+1506;Belfast;350cc;87
+1507;Belfast;50cc;87
+1600;Berne;MotoGP ;19
+1604;Berne;125cc;19
+1605;Berne;250cc;19
+1606;Berne;350cc;19
+1700;Chang International Circuit;MotoGP ;9
+1701;Chang International Circuit;Moto2 ;9
+1702;Chang International Circuit;Moto3 ;9
+1800;Circuit de Barcelona-Catalunya;MotoGP ;94
+1801;Circuit de Barcelona-Catalunya;Moto2 ;94
+1802;Circuit de Barcelona-Catalunya;Moto3 ;94
+1803;Circuit de Barcelona-Catalunya;MotoE ;94
+1804;Circuit de Barcelona-Catalunya;125cc;94
+1805;Circuit de Barcelona-Catalunya;250cc;94
+1900;Circuit Of The Americas;MotoGP ;27
+1901;Circuit Of The Americas;Moto2 ;27
+1902;Circuit Of The Americas;Moto3 ;27
+2100;Circuit Ricardo Tormo;MotoGP ;77
+2101;Circuit Ricardo Tormo;Moto2 ;77
+2102;Circuit Ricardo Tormo;Moto3 ;77
+2103;Circuit Ricardo Tormo;MotoE ;77
+2104;Circuit Ricardo Tormo;125cc;77
+2105;Circuit Ricardo Tormo;250cc;77
+2200;Circuito de Jerez - Angel Nieto;MotoGP ;118
+2201;Circuito de Jerez - Angel Nieto;Moto2 ;118
+2202;Circuito de Jerez - Angel Nieto;Moto3 ;118
+2203;Circuito de Jerez - Angel Nieto;MotoE ;118
+2204;Circuito de Jerez - Angel Nieto;125cc;118
+2205;Circuito de Jerez - Angel Nieto;250cc;118
+2208;Circuito de Jerez - Angel Nieto;80cc;118
+8600;Clermont-Ferrand;MotoGP ;28
+8604;Clermont-Ferrand;125cc;28
+8605;Clermont-Ferrand;250cc;28
+8606;Clermont-Ferrand;350cc;28
+8607;Clermont-Ferrand;50cc;28
+2300;Daytona;MotoGP ;8
+2304;Daytona;125cc;8
+2305;Daytona;250cc;8
+2307;Daytona;50cc;8
+2400;Donington Park;MotoGP ;70
+2404;Donington Park;125cc;70
+2405;Donington Park;250cc;70
+2408;Donington Park;80cc;70
+8700;Eastern Creek;MotoGP ;18
+8704;Eastern Creek;125cc;18
+8705;Eastern Creek;250cc;18
+2500;Estoril Circuit;MotoGP ;39
+2501;Estoril Circuit;Moto2 ;39
+2502;Estoril Circuit;Moto3 ;39
+2504;Estoril Circuit;125cc;39
+2505;Estoril Circuit;250cc;39
+2604;Fisco;125cc;8
+2605;Fisco;250cc;8
+2606;Fisco;350cc;8
+2607;Fisco;50cc;8
+2700;Goiania;MotoGP ;6
+2705;Goiania;250cc;6
+2800;Hedemora;MotoGP ;4
+2804;Hedemora;125cc;4
+2805;Hedemora;250cc;4
+2806;Hedemora;350cc;4
+2900;Hockenheim;MotoGP ;95
+2904;Hockenheim;125cc;95
+2905;Hockenheim;250cc;95
+2906;Hockenheim;350cc;95
+2907;Hockenheim;50cc;95
+2908;Hockenheim;80cc;95
+3100;Hungaroring;MotoGP ;6
+3104;Hungaroring;125cc;6
+3105;Hungaroring;250cc;6
+3200;Imatra;MotoGP ;72
+3204;Imatra;125cc;72
+3205;Imatra;250cc;72
+3206;Imatra;350cc;72
+3207;Imatra;50cc;72
+3300;Imola;MotoGP ;53
+3304;Imola;125cc;53
+3305;Imola;250cc;53
+3306;Imola;350cc;53
+3307;Imola;50cc;53
+3308;Imola;80cc;53
+3400;Indianapolis Motor Speedway;MotoGP ;24
+3401;Indianapolis Motor Speedway;Moto2 ;24
+3402;Indianapolis Motor Speedway;Moto3 ;24
+3404;Indianapolis Motor Speedway;125cc;24
+3405;Indianapolis Motor Speedway;250cc;24
+3500;Interlagos;MotoGP ;3
+3504;Interlagos;125cc;3
+3505;Interlagos;250cc;3
+3600;Isle of Man;MotoGP ;114
+3604;Isle of Man;125cc;114
+3605;Isle of Man;250cc;114
+3606;Isle of Man;350cc;114
+3607;Isle of Man;50cc;114
+3700;Istanbul Park Circuit;MotoGP ;9
+3704;Istanbul Park Circuit;125cc;9
+3705;Istanbul Park Circuit;250cc;9
+3800;Jarama;MotoGP ;76
+3804;Jarama;125cc;76
+3805;Jarama;250cc;76
+3806;Jarama;350cc;76
+3807;Jarama;50cc;76
+3808;Jarama;80cc;76
+3900;Johor;MotoGP ;3
+3905;Johor;250cc;3
+4100;Karlskoga;MotoGP ;7
+4104;Karlskoga;125cc;7
+4105;Karlskoga;250cc;7
+4106;Karlskoga;350cc;7
+4200;Kristianstad;MotoGP ;7
+4204;Kristianstad;125cc;7
+4205;Kristianstad;250cc;7
+4206;Kristianstad;350cc;7
+4300;Kyalami;MotoGP ;9
+4304;Kyalami;125cc;9
+4305;Kyalami;250cc;9
+4400;Le Mans;MotoGP ;116
+4401;Le Mans;Moto2 ;116
+4402;Le Mans;Moto3 ;116
+4403;Le Mans;MotoE ;116
+4404;Le Mans;125cc;116
+4405;Le Mans;250cc;116
+4406;Le Mans;350cc;116
+4407;Le Mans;50cc;116
+4408;Le Mans;80cc;116
+4500;Lusail International Circuit;MotoGP ;60
+4501;Lusail International Circuit;Moto2 ;60
+4502;Lusail International Circuit;Moto3 ;60
+4504;Lusail International Circuit;125cc;60
+4505;Lusail International Circuit;250cc;60
+4600;Magny Cours;MotoGP ;3
+4604;Magny Cours;125cc;3
+4605;Magny Cours;250cc;3
+4700;Mazda Raceway;MotoGP ;23
+4704;Mazda Raceway;125cc;23
+4705;Mazda Raceway;250cc;23
+4800;Misano World Circuit Marco Simoncelli;MotoGP ;102
+4801;Misano World Circuit Marco Simoncelli;Moto2 ;102
+4802;Misano World Circuit Marco Simoncelli;Moto3 ;102
+4803;Misano World Circuit Marco Simoncelli;MotoE ;102
+4804;Misano World Circuit Marco Simoncelli;125cc;102
+4805;Misano World Circuit Marco Simoncelli;250cc;102
+4806;Misano World Circuit Marco Simoncelli;350cc;102
+4807;Misano World Circuit Marco Simoncelli;50cc;102
+4808;Misano World Circuit Marco Simoncelli;80cc;102
+4900;Mobility Resort Motegi;MotoGP ;66
+4901;Mobility Resort Motegi;Moto2 ;66
+4902;Mobility Resort Motegi;Moto3 ;66
+4904;Mobility Resort Motegi;125cc;66
+4905;Mobility Resort Motegi;250cc;66
+5100;Montjuic;MotoGP ;0
+5104;Montjuic;125cc;0
+5105;Montjuic;250cc;0
+5106;Montjuic;350cc;0
+5107;Montjuic;50cc;0
+5200;Monza;MotoGP ;111
+5204;Monza;125cc;111
+5205;Monza;250cc;111
+5206;Monza;350cc;111
+5207;Monza;50cc;111
+5208;Monza;80cc;111
+5300;Mosport;MotoGP ;3
+5304;Mosport;125cc;3
+5305;Mosport;250cc;3
+5400;MotorLand Aragon;MotoGP ;42
+5401;MotorLand Aragon;Moto2 ;42
+5402;MotorLand Aragon;Moto3 ;42
+5404;MotorLand Aragon;125cc;42
+8800;Nelson Piquet;MotoGP ;27
+8804;Nelson Piquet;125cc;27
+8805;Nelson Piquet;250cc;27
+5500;Nogaro;MotoGP ;8
+5504;Nogaro;125cc;8
+5505;Nogaro;250cc;8
+5506;Nogaro;350cc;8
+5600;Nurburgring;MotoGP ;72
+5604;Nurburgring;125cc;72
+5605;Nurburgring;250cc;72
+5606;Nurburgring;350cc;72
+5607;Nurburgring;50cc;72
+5608;Nurburgring;80cc;72
+5700;Opatija;MotoGP ;36
+5704;Opatija;125cc;36
+5705;Opatija;250cc;36
+5706;Opatija;350cc;36
+5707;Opatija;50cc;36
+5800;Oscar A. Galvez;MotoGP ;31
+5804;Oscar A. Galvez;125cc;31
+5805;Oscar A. Galvez;250cc;31
+5806;Oscar A. Galvez;350cc;31
+5807;Oscar A. Galvez;50cc;31
+5900;Paul Ricard;MotoGP ;43
+5904;Paul Ricard;125cc;43
+5905;Paul Ricard;250cc;43
+5906;Paul Ricard;350cc;43
+6100;Pertamina Mandalika Circuit;MotoGP ;3
+6101;Pertamina Mandalika Circuit;Moto2 ;3
+6102;Pertamina Mandalika Circuit;Moto3 ;3
+6200;Phakisa Freeway;MotoGP ;18
+6204;Phakisa Freeway;125cc;18
+6205;Phakisa Freeway;250cc;18
+6300;Phillip Island;MotoGP ;78
+6301;Phillip Island;Moto2 ;78
+6302;Phillip Island;Moto3 ;78
+6304;Phillip Island;125cc;78
+6305;Phillip Island;250cc;78
+6400;Red Bull Ring - Spielberg;MotoGP ;37
+6401;Red Bull Ring - Spielberg;Moto2 ;37
+6402;Red Bull Ring - Spielberg;Moto3 ;37
+6403;Red Bull Ring - Spielberg;MotoE ;37
+6404;Red Bull Ring - Spielberg;125cc;37
+6405;Red Bull Ring - Spielberg;250cc;37
+6500;Reims;MotoGP ;3
+6504;Reims;125cc;3
+6506;Reims;350cc;3
+6600;Rijeka;MotoGP ;46
+6604;Rijeka;125cc;46
+6605;Rijeka;250cc;46
+6606;Rijeka;350cc;46
+6607;Rijeka;50cc;46
+6608;Rijeka;80cc;46
+6700;Rouen;MotoGP ;8
+6704;Rouen;125cc;8
+6705;Rouen;250cc;8
+6706;Rouen;350cc;8
+6707;Rouen;50cc;8
+6800;Sachsenring;MotoGP ;125
+6801;Sachsenring;Moto2 ;125
+6802;Sachsenring;Moto3 ;125
+6803;Sachsenring;MotoE ;125
+6804;Sachsenring;125cc;125
+6805;Sachsenring;250cc;125
+6806;Sachsenring;350cc;125
+6807;Sachsenring;50cc;125
+6900;Salzburgring;MotoGP ;71
+6904;Salzburgring;125cc;71
+6905;Salzburgring;250cc;71
+6906;Salzburgring;350cc;71
+6907;Salzburgring;50cc;71
+6908;Salzburgring;80cc;71
+7100;San Carlos;MotoGP ;12
+7104;San Carlos;125cc;12
+7105;San Carlos;250cc;12
+7106;San Carlos;350cc;12
+7204;Schotten;125cc;2
+7205;Schotten;250cc;2
+7300;Sentul;MotoGP ;6
+7304;Sentul;125cc;6
+7305;Sentul;250cc;6
+7400;Sepang International Circuit;MotoGP ;66
+7401;Sepang International Circuit;Moto2 ;66
+7402;Sepang International Circuit;Moto3 ;66
+7404;Sepang International Circuit;125cc;66
+7405;Sepang International Circuit;250cc;66
+7500;Shah Alam;MotoGP ;21
+7504;Shah Alam;125cc;21
+7505;Shah Alam;250cc;21
+7600;Shanghai Circuit;MotoGP ;12
+7605;Shanghai Circuit;250cc;12
+7604;Shanghai Circuit;125cc;12
+7700;Silverstone Circuit;MotoGP ;73
+7701;Silverstone Circuit;Moto2 ;73
+7702;Silverstone Circuit;Moto3 ;73
+7704;Silverstone Circuit;125cc;73
+7705;Silverstone Circuit;250cc;73
+7706;Silverstone Circuit;350cc;73
+7708;Silverstone Circuit;80cc;73
+7800;Solitude;MotoGP ;22
+7804;Solitude;125cc;22
+7805;Solitude;250cc;22
+7806;Solitude;350cc;22
+7807;Solitude;50cc;22
+7900;Spa-Francorchamps;MotoGP ;131
+7904;Spa-Francorchamps;125cc;131
+7905;Spa-Francorchamps;250cc;131
+7906;Spa-Francorchamps;350cc;131
+7907;Spa-Francorchamps;50cc;131
+7908;Spa-Francorchamps;80cc;131
+8100;Suzuka;MotoGP ;56
+8104;Suzuka;125cc;56
+8105;Suzuka;250cc;56
+8106;Suzuka;350cc;56
+8107;Suzuka;50cc;56
+8200;Tampere;MotoGP ;8
+8204;Tampere;125cc;8
+8206;Tampere;350cc;8
+8207;Tampere;50cc;8
+8300;Termas de Rio Hondo;MotoGP ;21
+8302;Termas de Rio Hondo;Moto3 ;21
+8301;Termas de Rio Hondo;Moto2 ;21
+8400;TT Circuit Assen;MotoGP ;280
+8401;TT Circuit Assen;Moto2 ;280
+8402;TT Circuit Assen;Moto3 ;280
+8403;TT Circuit Assen;MotoE ;280
+8404;TT Circuit Assen;125cc;280
+8405;TT Circuit Assen;250cc;280
+8406;TT Circuit Assen;350cc;280
+8407;TT Circuit Assen;50cc;280
+8408;TT Circuit Assen;80cc;280
